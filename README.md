@@ -1,3 +1,5 @@
-# Micah's CodeIgniter Rest Server
+# Micah's Portfolio Site 
 
-Live Demo: http://micah-is-a-showoff.aws.af.cm/
+Built with CodeIgniter and Bootstrap.
+
+[Live Demo](http://micah-is-a-showoff.aws.af.cm)
