@@ -182,7 +182,7 @@ EOT;
             <!-- FOOTER -->
             <footer>
                 <p class="pull-right"><a href="#">Back to top</a></p>
-                <p>&copy; 2013 <a href="http://micahdbolen.wordpress.com">Micah Delane Bolen</a> &middot; This site was built with CodeIgniter and Bootstrap (<a href="http://micahbolen.github.com/portfolio">Source</a>) &middot; <a href="<?php echo site_url('api/projects'); ?>">Projects API</a></p>
+                <p>&copy; 2013 <a href="http://micahdbolen.wordpress.com">Micah Delane Bolen</a> &middot; This site was built with CodeIgniter and Bootstrap (<a href="http://github.com/micahbolen/portfolio">Source</a>) &middot; <a href="<?php echo site_url('api/projects'); ?>">Projects API</a></p>
             </footer>
 
         </div><!-- /.container -->
